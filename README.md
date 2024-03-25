@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm a junior majoring in computer science at Michigan State University.
+I'm a junior at Michigan State University majoring in computer science with a passion for software development.
+I thrive on crafting elegant solutions to complex problems and enjoy working with modern web technologies to build robust and user-friendly applications. My toolkit includes proficiency in HTML, CSS, Typescript, and frameworks like Angular. On the backend, I'm skilled in C++, Python, TypeScript, and utilize runtime environments such as Node.js. Additionally, I have experience with databases, cloud technologies like AWS and GCP, and containerization technologies like Docker. These diverse skills equip me for full-stack development, allowing me to tackle projects from end to end with efficiency and innovation Let's connect and collaborate on exciting projects together!
+
 <!--
 **Keerthi598/Keerthi598** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
