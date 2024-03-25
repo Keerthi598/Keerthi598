@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm a junior majoring in computer science at Michigan State University.
 <!--
 **Keerthi598/Keerthi598** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
